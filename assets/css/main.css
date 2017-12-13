@@ -1,0 +1,48 @@
+.navbar-right i{
+	font-size: 130%;
+}
+.header_modal{
+	padding: 3%;
+}
+input{
+	border:none;
+	border-bottom: 0.7px solid grey;
+	margin: 6%;
+	padding: 1%;
+
+}
+.fa-user-circle-o{
+	font-size:700%;
+	padding-top: 30px;
+}
+.base{
+	padding-bottom: 3%;
+}
+.btn_nav{
+	background-color: transparent;
+	border:none;
+}
+.add_btn{
+	background-color: #9C9C9C;
+	border:none;
+	margin-bottom: 2%;
+}
+
+.contact{
+	background-color: white;
+	border: 1px solid #ccc;
+	box-shadow: 0 2px 10px rgba(0,0,0,.2);
+	padding: 2%;
+	margin-top:7%;
+	width: 50%;
+	margin-left: 25%;
+}
+
+.fa-trash{
+	cursor: pointer;
+	color: black;
+	padding-left: 95%; 
+}
+.fa-trash:hover{
+	color: grey;
+}
